@@ -2,11 +2,6 @@
   <component name="DockerRegistry">
     <DockerRegistry>
       <option name="address" value="registry.hub.docker.com" />
-      <option name="name" value="Docker 注册表" />
-      <option name="username" value="yingmd" />
-    </DockerRegistry>
-    <DockerRegistry>
-      <option name="address" value="registry.hub.docker.com" />
       <option name="name" value="Dockerhub" />
       <option name="username" value="yingmd" />
     </DockerRegistry>
