@@ -5,5 +5,11 @@
       <option name="name" value="Dockerhub" />
       <option name="username" value="yingmd" />
     </DockerRegistry>
+    <DockerRegistry>
+      <option name="address" value="https://ap5mr2a9.mirror.aliyuncs.com" />
+      <option name="name" value="aliyun" />
+      <option name="username" value="15871658646" />
+      <option name="v2Registry" value="true" />
+    </DockerRegistry>
   </component>
 </application>
