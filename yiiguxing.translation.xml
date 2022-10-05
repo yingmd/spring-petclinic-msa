@@ -3,10 +3,19 @@
     <option name="newTranslationDialogHeight" value="245" />
     <option name="newTranslationDialogX" value="2507" />
     <option name="newTranslationDialogY" value="543" />
+    <histories>
+      <item value="Maven: io.springboot.nacos:nacos-config" />
+      <item value="New Module Root Manager" />
+      <item value="LANGUAGE LEVEL" />
+    </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1664967047260" />
   </component>
 </application>
