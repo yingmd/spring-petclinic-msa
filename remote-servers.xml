@@ -13,5 +13,11 @@
         <option name="customConfiguratorId" value="DockerTcpConnectionConfigurator" />
       </configuration>
     </remote-server>
+    <remote-server name="131.186.26.32" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://131.186.26.32:2376" />
+        <option name="customConfiguratorId" value="DockerTcpConnectionConfigurator" />
+      </configuration>
+    </remote-server>
   </component>
 </application>
