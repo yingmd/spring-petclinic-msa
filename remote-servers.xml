@@ -7,9 +7,9 @@
         <option name="customConfiguratorId" value="DockerDefaultConnectionConfigurator" />
       </configuration>
     </remote-server>
-    <remote-server name="152.70.236.148" type="docker">
+    <remote-server name="146.56.186.40" type="docker">
       <configuration>
-        <option name="apiUrl" value="tcp://152.70.236.148:2376" />
+        <option name="apiUrl" value="tcp://146.56.186.40:2376" />
         <option name="customConfiguratorId" value="DockerTcpConnectionConfigurator" />
       </configuration>
     </remote-server>
